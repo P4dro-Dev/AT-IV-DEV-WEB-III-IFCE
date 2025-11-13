@@ -224,7 +224,7 @@ Print 4 — Tela de dashboard
 
 ```
 
-## 📌 Observações Importantes
+## 📌| Observações Importantes
 
 ```
 
@@ -245,7 +245,7 @@ Projeto acadêmico — uso livre para fins de estudo.
 
 ```
 
-##⚛️ | Conclusão
+## ⚛️ | Conclusão
 
 Este projeto cumpre todos os requisitos da tarefa, incluindo:
 
