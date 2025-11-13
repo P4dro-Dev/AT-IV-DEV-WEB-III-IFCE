@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Dashboard</title>
+</head>
+<body>
+    <h1>Dashboard</h1>
+
+    <p>Olá, {{ request.user.username }} — você está autenticado.</p>
+
+    <p><a href="{% url 'usuarios:logout' %}">Sair</a></p>
+</body>
+</html>
