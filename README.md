@@ -1,10 +1,10 @@
-## 📘 Sistema de Tarefas — Autenticação de Usuários
+## 📘| Sistema de Tarefas — Autenticação de Usuários
 
 Tarefa da Unidade 4 — Desenvolvimento Web III (Django)
 
 Este projeto implementa um sistema básico com autenticação de usuários, utilizando o framework Django, com rotas protegidas, templates completos, boas práticas de segurança e documentação completa.
 
-## 🚀 Objetivos da Tarefa
+## 📋| Objetivos da Tarefa
 
 A implementação atende a todos os requisitos:
 
@@ -23,7 +23,7 @@ A implementação atende a todos os requisitos:
 
 ```
 
-## 📂 Estrutura do Projeto
+## 📂| Estrutura do Projeto
 
 ```
 tarefa4_project/
@@ -54,7 +54,7 @@ tarefa4_project/
         └── dashboard.html
 ```
 
-## ⚙️ Instalação e Execução do Projeto
+## ⚙️| Instalação e Execução do Projeto
 
 ```
 
@@ -87,7 +87,7 @@ python manage.py runserver
 
 ```
 
-## 🔗 Acessar aplicação
+## 🔗| Acessar aplicação
 
 ```
 Função	URL
@@ -98,7 +98,7 @@ Logout	http://127.0.0.1:8000/usuarios/logout/
 
 ```
 
-## 🔐 Autenticação e Segurança
+## 🔐| Autenticação e Segurança
 
 No arquivo settings.py, foram adicionadas as configurações:
 
@@ -120,7 +120,7 @@ Após logout → voltam para login.
 
 ```
 
-## 🧩 Funcionalidades da Aplicação usuarios
+## 🧩| Funcionalidades da Aplicação usuarios
 
 ```
 
@@ -155,7 +155,7 @@ Implementada com decorator:
 @login_required
 ```
 
-## 🖼 Templates Criados
+## 🖼| Templates Criados
 
 Os templates estão em:
 
@@ -193,7 +193,7 @@ Via Pull Request no GitHub:
 ✔ Fazer merge
 
 ```
-## 📑 Relatório em PDF
+## 📑| Relatório em PDF
 
 O PDF com prints já faz parte da entrega e contém:
 
@@ -207,7 +207,7 @@ Espaço para anexar prints reais do sistema
 Link do repositório (para você preencher)
 ```
 
-## 📝 Prints incluídos no relatório PDF
+## 📝| Prints incluídos no relatório PDF
 
 ```
 O relatório gerado automaticamente contém:
@@ -221,6 +221,7 @@ Print 3 — Tela de login
 Print 4 — Tela de dashboard
 
 (Apresentados como placeholders dentro do PDF, seguindo o modelo da tarefa.)
+
 ```
 
 ## 📌 Observações Importantes
@@ -237,14 +238,14 @@ Banco de dados padrão: SQLite → ideal para testes acadêmicos.
 O projeto está modular e pronto para expansão (CRUD de tarefas, perfis, permissões, etc.).
 ```
 
-## 📎 Licença
+## 📎| Licença
 
 ```
 Projeto acadêmico — uso livre para fins de estudo.
 
 ```
 
-## 🎉 Conclusão
+##⚛️ | Conclusão
 
 Este projeto cumpre todos os requisitos da tarefa, incluindo:
 
