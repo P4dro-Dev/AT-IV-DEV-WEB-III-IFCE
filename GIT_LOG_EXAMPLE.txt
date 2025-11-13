@@ -1,0 +1,7 @@
+# Exemplo de sequência de comandos (registro para o relatório)
+git init
+git checkout -b autenticacao
+git add .
+git commit -m "Inicial: adicionar scaffold do projeto e app usuarios"
+git push origin autenticacao
+# Após testes, abrir merge request e mesclar na branch principal (main)
