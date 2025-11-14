@@ -202,9 +202,6 @@ Descrição da implementação
 
 Prints automáticos do fluxo
 
-Espaço para anexar prints reais do sistema
-
-Link do repositório (para você preencher)
 ```
 
 ## 📝| Prints incluídos no relatório PDF
