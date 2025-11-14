@@ -195,7 +195,7 @@ Via Pull Request no GitHub:
 ```
 ## 📑| Relatório em PDF
 
-O PDF com prints já faz parte da entrega e contém:
+O PDF com prints já faz parte da entrega, e contém:
 
 ```
 Descrição da implementação
@@ -209,35 +209,20 @@ Prints automáticos do fluxo
 ```
 O relatório gerado automaticamente contém:
 
-Print 1 — git branch autenticacao
+Print 1 — Tela de cadastro
 
-Print 2 — Tela de cadastro
+Print 2 — Tela de login
 
-Print 3 — Tela de login
-
-Print 4 — Tela de dashboard
+Print 3 — Tela de dashboard
 
 (Apresentados como placeholders dentro do PDF, seguindo o modelo da tarefa.)
 
 ```
 
-## 📌| Observações Importantes
-
-```
-
-Mude o SECRET_KEY antes de publicar:
-
-SECRET_KEY = 'use-uma-chave-segura-aqui'
-
-
-Banco de dados padrão: SQLite → ideal para testes acadêmicos.
-
-O projeto está modular e pronto para expansão (CRUD de tarefas, perfis, permissões, etc.).
-```
-
 ## 📎| Licença
 
 ```
+
 Projeto acadêmico — uso livre para fins de estudo.
 
 ```
