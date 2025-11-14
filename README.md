@@ -27,7 +27,7 @@ A implementação atende a todos os requisitos:
 
 ```
 tarefa4_project/
-│
+│__
 ├── manage.py
 ├── README.md
 ├── requirements.txt
