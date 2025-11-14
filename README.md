@@ -27,7 +27,7 @@ A implementação atende a todos os requisitos:
 
 ```
 tarefa4_project/
-│__
+├── Relatório_PDF_Repositório+Explicações+Print
 ├── manage.py
 ├── README.md
 ├── requirements.txt
